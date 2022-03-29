@@ -26,7 +26,7 @@ async function getDrink(){
                     document.querySelector('img').src = data.drinks[i].strDrinkThumb
                     document.querySelector('h3').innerText = data.drinks[i].strInstructions
                     //outputs data to DOM
-                }, 1000*10*i); //sets the timeout to 10 seconds
+                }, 1000*6*i); //sets the timeout to 10 seconds
         }}
         }
     )
