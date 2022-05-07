@@ -1,5 +1,5 @@
 # Wolvin's Well
-
+![cover image of the Wolvin's Well website](https://github.com/Wo1vin/wolvins-well/blob/main/WolvinsWell-Cover.png?raw=true)
 ## Description ##
  Funky web app that features a cocktail API.
  
